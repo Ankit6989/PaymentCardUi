@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PaymentCardUi</string>
+    <string name="your_card_number">Card Number</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="save">Save</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="cvv">CVV</string>
+</resources>
